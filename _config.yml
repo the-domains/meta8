@@ -1,0 +1,28 @@
+name: meta8
+favicon: null
+layout_spectrum: 0.42537945369258523
+typography_spectrum: 0.42268734308891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10442389687523246
+  lightness: 0.7348569058813155
+  saturation: 0.33856277726590633
+  rhythmicContrast: 0.4752364556770772
+purpose: []
